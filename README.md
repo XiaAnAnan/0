@@ -1,2 +1,0 @@
-# uPic
-Image Hosting
