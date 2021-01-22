@@ -1,2 +1,2 @@
 # uPic
-自用图床
+Image Hosting
